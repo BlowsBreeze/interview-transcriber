@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+
+# Local audio recordings and generated transcripts may contain sensitive data.
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Frontend build artifacts
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+frontend/vite.config.js
+frontend/vite.config.d.ts
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example

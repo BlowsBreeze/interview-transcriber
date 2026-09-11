@@ -1,0 +1,25 @@
+# One technical term per line. An optional integer weight can follow the term.
+# Example: React 20
+React
+Vue
+JavaScript
+TypeScript
+Fiber
+SSR
+CSR
+Hydration
+Webpack
+Vite
+Pinia
+Promise
+Node.js
+Docker
+Prisma
+Monorepo
+Micro Frontend
+Agent
+LLM
+MCP
+RAG
+LangChain
+mock

@@ -1,0 +1,6 @@
+# Install PyTorch separately using the command in README.md, then install these.
+funasr>=1.3.0
+soundfile>=0.12.1
+fastapi>=0.115.0
+uvicorn[standard]>=0.34.0
+python-multipart>=0.0.20
